@@ -1,0 +1,48 @@
+2026-04-07 11:03:42,675 [INFO] No existing database found. Starting fresh.
+2026-04-07 11:04:46,566 [INFO] No existing database found. Starting fresh.
+2026-04-07 11:18:22,414 [INFO] No existing database found. Starting fresh.
+2026-04-07 11:19:26,450 [WARNING] Haar found nothing. Switching to CNN fallback...
+2026-04-07 11:22:37,623 [WARNING] Haar found nothing. Switching to CNN fallback...
+2026-04-07 11:22:40,204 [WARNING] Haar found nothing. Switching to CNN fallback...
+2026-04-07 11:22:41,332 [WARNING] Haar found nothing. Switching to CNN fallback...
+2026-04-09 08:54:59,197 [INFO] No existing database found. Starting fresh.
+2026-04-09 08:55:13,187 [INFO] No existing database found. Starting fresh.
+2026-04-09 08:55:45,316 [INFO] Database saved successfully.
+2026-04-09 08:55:45,320 [INFO] Registered: baibhav
+2026-04-09 08:55:47,802 [INFO] Database saved successfully.
+2026-04-09 08:55:47,804 [INFO] Registered: baibhav
+2026-04-09 08:55:52,986 [WARNING] baibhav is already registered.
+2026-04-09 08:55:53,222 [WARNING] baibhav is already registered.
+2026-04-09 08:55:53,405 [WARNING] baibhav is already registered.
+2026-04-09 08:56:18,724 [INFO] Haar detected 1 face(s).
+2026-04-09 08:56:35,957 [INFO] Haar detected 1 face(s).
+2026-04-09 08:56:39,169 [INFO] Haar detected 1 face(s).
+2026-04-09 08:56:42,441 [INFO] Haar detected 1 face(s).
+2026-04-09 08:56:44,193 [INFO] Haar detected 1 face(s).
+2026-04-09 08:56:46,488 [INFO] Haar detected 1 face(s).
+2026-04-09 08:56:48,135 [WARNING] baibhav is already registered.
+2026-04-09 08:56:51,547 [INFO] Haar detected 1 face(s).
+2026-04-09 09:02:11,411 [INFO] Haar detected 1 face(s).
+2026-04-09 09:02:33,138 [INFO] Haar detected 1 face(s).
+2026-04-09 09:02:45,884 [INFO] Haar detected 1 face(s).
+2026-04-09 09:02:53,850 [INFO] Haar detected 1 face(s).
+2026-04-09 09:35:36,998 [INFO] Loaded 2 known face(s) from DB.
+2026-04-09 09:35:52,369 [INFO] Haar detected 1 face(s).
+2026-04-09 09:37:52,907 [INFO] Loaded 2 known face(s) from DB.
+2026-04-09 09:40:49,041 [INFO] Loaded 2 known face(s) from DB.
+2026-04-09 09:44:25,290 [INFO] Loaded 2 known face(s) from DB.
+2026-04-09 09:44:37,028 [INFO] Database saved successfully.
+2026-04-09 09:45:24,744 [WARNING] Baibhav is already registered.
+2026-04-09 09:45:33,164 [INFO] Haar detected 1 face(s).
+2026-04-09 10:15:55,547 [INFO] Loaded 1 known face(s) from DB.
+2026-04-09 10:18:25,476 [INFO] Loaded 1 known face(s) from DB.
+2026-04-09 10:19:09,460 [INFO] Loaded 1 known face(s) from DB.
+2026-04-09 10:24:40,167 [INFO] Loaded 1 known face(s) from DB.
+2026-04-09 10:29:53,228 [INFO] Loaded 1 known face(s) from DB.
+2026-04-09 10:29:58,994 [INFO] Haar detected 1 face(s).
+2026-04-09 10:30:18,383 [INFO] Database saved successfully.
+2026-04-09 10:30:24,051 [INFO] Haar detected 1 face(s).
+2026-04-09 10:30:57,562 [INFO] Database saved successfully.
+2026-04-09 10:30:57,563 [INFO] Registered: bobby
+2026-04-09 10:31:01,040 [INFO] Database saved successfully.
+2026-04-09 10:48:54,879 [INFO] Loaded 0 known face(s) from DB.
